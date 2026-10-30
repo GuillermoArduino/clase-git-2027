@@ -1,2 +1,5 @@
 Color favorito: azul
-Color favorito: Rojito
+<<<<<<< HEAD
+Color favorito: Rojito y verde y el azul de guille
+
+>>>>>>> rama-b
